@@ -1,0 +1,16 @@
+.honda-banner-bg{
+    background-color: #264653;
+}
+
+.purchage-button{
+    
+    background-image: linear-gradient(to bottom,#E76F51 0%, #E76F51 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+
+.bg-women{
+    background-color:#FFB6C1 ;
+}
